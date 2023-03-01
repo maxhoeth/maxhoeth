@@ -1,7 +1,7 @@
 ## Hello, I am Max Höth, 
 
-- studied Physics at the Otto-von-Guericke Universität Magdeburg
-- currently studying Physics of Data at the University of Padova
+- studied Physics at the Otto-von-Guericke Universität Magdeburg, B.Sc
+- currently studying Physics of Data at the University of Padova, M.Sc
 
 
 [![](https://img.shields.io/badge/Python-00599C?style=flat&logo=Python&logoColor=white)](https://github.com/maxhoeth)
