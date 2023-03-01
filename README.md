@@ -4,6 +4,6 @@
 - currently studying Physics of Data at the University of Padova
 
 
-[![](https://img.shields.io/badge/Python-00599C?style=plastic&logo=Python&logoColor=white)]()
-[![](https://img.shields.io/badge/Python-00599C?style=plastic&logo=R&logoColor=white)]()
-[![](https://img.shields.io/badge/Python-00599C?style=plastic&logo=C++&logoColor=white)]()
+[![](https://img.shields.io/badge/Python-00599C?style=flat&logo=Python&logoColor=white)](https://github.com/maxhoeth)
+[![](https://img.shields.io/badge/Python-00599C?style=flat&logo=R&logoColor=white)](https://github.com/maxhoeth)
+[![](https://img.shields.io/badge/Python-00599C?style=flat&logo=C++&logoColor=white)](https://github.com/maxhoeth)
